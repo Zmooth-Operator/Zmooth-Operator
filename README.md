@@ -1,23 +1,23 @@
-# Hi 👋
+# Hey 👋
 
-Ich bin ein Quereinsteiger aus dem E-Commerce mit einer Leidenschaft für Crypto und Open Source.
-Aktuell lerne ich TypeScript und Node.js — learning by doing.
+I'm a career changer from e-commerce with a passion for crypto and open source.
+Currently learning TypeScript and Node.js — learning by doing.
 
-## Was ich baue
+## What I'm building
 
-- 🔍 [Crypto Price Tracker](https://github.com/Zmooth-Operator/crypto-price-tracker) — Live-Preise für Bitcoin, Ethereum und Solana
-- 🔗 [DFX API Wrapper](https://github.com/Zmooth-Operator/dfx-api-wrapper) — DFX Swiss API Explorer
-- 💳 [Payment UI](https://github.com/Zmooth-Operator/dfx-payment-ui) — Crypto Payment Interface
+- 🔍 [Crypto Price Tracker](https://github.com/Zmooth-Operator/crypto-price-tracker) — Live prices for Bitcoin, Ethereum and Solana
+- 🔗 [DFX API Wrapper](https://github.com/Zmooth-Operator/dfx-api-wrapper) — DFX Swiss public API explorer
+- 💳 [Payment UI](https://github.com/Zmooth-Operator/dfx-payment-ui) — Crypto payment interface with live prices
 
 ## Skills
 
 - TypeScript / Node.js
 - REST APIs
 - Git & GitHub
-- Bitcoin & Lightning Network Grundlagen
+- Bitcoin & Lightning Network basics
 
-## Über mich
+## About me
 
-- 🌍 E-Commerce Hintergrund
-- ⚡ Fasziniert von Bitcoin und dem Lightning Network
+- 🌍 E-commerce background
+- ⚡ Fascinated by Bitcoin and the Lightning Network
 - 🔨 Learning by doing
