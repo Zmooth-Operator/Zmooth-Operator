@@ -1,6 +1,6 @@
 # Daniel Kaiser
 
-E-Commerce Manager. Vibe Coder. Building things that actually work.
+E-Commerce Manager. Vibe Coder. Building things.
 
 ## What I'm building
 - 📱 [TripPack](https://github.com/Zmooth-Operator/trippack) — Offline-first iOS travel app built with Flutter & Claude Code
